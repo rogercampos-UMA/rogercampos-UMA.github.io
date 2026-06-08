@@ -161,6 +161,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 VALIDACION FORMULARIO
 =================================== */
 
+/*
+
 const form = document.querySelector("form");
 
 if(form){
@@ -192,14 +194,15 @@ if(form){
 
         });
 
-        if(valid){
 
-        /*    alert(
+        if(valid){
+         
+           alert(
             "Do you want to send us the email?"
             );
 
-            form.reset();
-            */
+            //form.reset();
+            
 
         }else{
 
@@ -208,10 +211,17 @@ if(form){
             );
 
         }
+       
+    
 
-    });
+    }
+    
+    );
 
+       
 }
+
+*/
 
 /* ===================================
 EFECTO APARICION SUAVE
