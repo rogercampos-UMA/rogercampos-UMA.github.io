@@ -194,16 +194,16 @@ if(form){
 
         if(valid){
 
-            alert(
-            "Gracias por contactarnos. Nos comunicaremos contigo pronto."
-            );
+        //    alert(
+        //    "Do you want to send us the email?"
+        //    );
 
-            form.reset();
+            //form.reset();
 
         }else{
 
             alert(
-            "Por favor completa todos los campos."
+            "You must fill in all the fields, please!"
             );
 
         }
