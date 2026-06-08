@@ -194,11 +194,12 @@ if(form){
 
         if(valid){
 
-        //    alert(
-        //    "Do you want to send us the email?"
-        //    );
+        /*    alert(
+            "Do you want to send us the email?"
+            );
 
-            //form.reset();
+            form.reset();
+            */
 
         }else{
 
