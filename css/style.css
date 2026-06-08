@@ -55,6 +55,7 @@ NAVBAR
     backdrop-filter:blur(10px);
     transition:.4s;
     padding:15px 0;
+    width: auto;
 }
 
 .navbar-scroll{
